@@ -43,6 +43,6 @@ Wear reduces maximum achievable grip and is clamped between 0% and 100%.
 
 # Tire States
 - Normal - standard operation
-- Fire - critical overheating, grip penalty applied
+- Fire - critical overheating, grip penalty.
 - Explosion - tire destruction
 Threshold values are configurable in the session context.
